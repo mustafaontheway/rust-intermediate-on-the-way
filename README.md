@@ -1,3 +1,1 @@
-Rust Voltron...
-
-!
+From Rust to Move Lang
